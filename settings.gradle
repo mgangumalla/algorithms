@@ -1,0 +1,5 @@
+rootProject.name = 'algorithms'
+include 'app'
+include 'app-service'
+include 'app-domain'
+
